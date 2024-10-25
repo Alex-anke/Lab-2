@@ -1,0 +1,38 @@
+[
+    {
+        "ISBN": "399135782",
+        "Book-Title": "The Kitchen God's Wife",
+        "Book-Author": "Amy Tan",
+        "Year-Of-Publication": "1991",
+        "Publisher": "Putnam Pub Group",
+        "Downloads": "1",
+        "Price": "176"
+    },
+    {
+        "ISBN": "804106304",
+        "Book-Title": "The Joy Luck Club",
+        "Book-Author": "Amy Tan",
+        "Year-Of-Publication": "1994",
+        "Publisher": "Prentice Hall (K-12)",
+        "Downloads": "2",
+        "Price": "239"
+    },
+    {
+        "ISBN": "399141146",
+        "Book-Title": "The Hundred Secret Senses",
+        "Book-Author": "Amy Tan",
+        "Year-Of-Publication": "1995",
+        "Publisher": "Putnam Pub Group",
+        "Downloads": "25",
+        "Price": "199"
+    },
+    {
+        "ISBN": "8807816318",
+        "Book-Title": "Il Circolo Della Fortuna E Della Felicita",
+        "Book-Author": "Amy Tan",
+        "Year-Of-Publication": "2002",
+        "Publisher": "Distribooks Inc",
+        "Downloads": "1",
+        "Price": "299"
+    }
+]
